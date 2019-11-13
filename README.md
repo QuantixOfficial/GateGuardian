@@ -25,7 +25,7 @@ If you want to install this, it is highly recommended to install via the steam w
 
 ## License
 
-GateGuardian is under the GNU license and cannot be redistributed, you may fork it if you so please but no distribution may take place.
+GateGuardian is under the Apache license (more info in LICENSE.md)
 
 The TDLib Library was used in the making of this addon and it was created by Threebow (https://github.com/Threebow/tdlib)
 
