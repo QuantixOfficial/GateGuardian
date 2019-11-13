@@ -18,9 +18,10 @@ If you want to install this, it is highly recommended to install via the steam w
 
 (but if you want to install it from git directly you can follow these steps)
 1. Download the files and put them into a folder named 'GateGuardian'
-2. Put that folder into your GarrysMod Addons folder (usually: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons)
-3. Restart Garrys Mod and it should be installed.
-4. Take note that git downloads will not auto update, and it is recommended to get the workshop version.
+2. Remove the 'readme' and 'license' txt files as it will mess gmod up.
+3. Put that folder into your GarrysMod Addons folder (usually: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons)
+4. Restart Garrys Mod and it should be installed.
+5. Take note that git downloads will not auto update, and it is recommended to get the workshop version.
 
 ## License
 
