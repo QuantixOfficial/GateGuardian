@@ -110,7 +110,7 @@ local function showList()
         userEntry:SetText("Steam Profile Link or ID")
         userEntry.OnEnter = function() sendUser(self:GetValue(), true) end
         userEntry:TDLib()
-            :ReadyTextBox()
+            :ReadyTextbox()
             :FadeHover()
             :BarHover()
             :SideBlock(Color(255, 0, 0), 4, LEFT)
