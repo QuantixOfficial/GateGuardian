@@ -28,3 +28,5 @@ If you want to install this, it is highly recommended to install via the steam w
 GateGuardian is under the GNU license and cannot be redistributed, you may fork it if you so please but no distribution may take place.
 
 TDLib library created by threebow is used in this addon for Derma (http://www.threebow.com)
+
+### More information in the 'LICENSE' file
