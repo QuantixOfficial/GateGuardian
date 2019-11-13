@@ -1,6 +1,6 @@
 # GateGuardian
 
-GateGuardian is a GMOD addon created by 'bathdabomb' or 'Quantix' (https://steamcommunity.com/profiles/76561198164621602/)
+GateGuardian is a lightweight GMOD whitelisting addon created by 'bathdabomb' or 'Quantix' (https://steamcommunity.com/profiles/76561198164621602/)
 which allows a nice user friendly way to enable whitelists and blacklists.
 
 ## Instructions
